@@ -1,0 +1,12 @@
+{
+    "Servers": [
+        {
+            "Version": "mdm-byod",
+            "BaseURL": "https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=57a2eb91-455f-44fd-8873-33169e78a072"
+        },
+        {
+            "Version": "mdm-byod",
+            "BaseURL": "https://blackglove.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
+        }
+    ]
+}
